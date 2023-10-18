@@ -20,3 +20,7 @@ codecopy /path/to/dir # by default, it only considers .py files
 ```bash
 codecopy /path/to/dir -f .js .html
 ```
+
+### Tips
+If your code is too long, you can split your prompt at
+[https://chatgpt-prompt-splitter.vercel.app](https://chatgpt-prompt-splitter.vercel.app).
